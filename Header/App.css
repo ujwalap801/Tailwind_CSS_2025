@@ -1,0 +1,20 @@
+.navbar{
+    background-color:red;
+    color:white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.navbar li a{
+    display: block;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: wheat;
+}
+
+
+.navbar li a:hover{
+    background-color: aqua;
+}
