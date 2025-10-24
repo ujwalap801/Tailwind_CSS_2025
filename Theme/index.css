@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+:root{
+  --primary-color:red;
+}
+
+@theme {
+  --color-primary:red;
+}
